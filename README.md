@@ -1,7 +1,4 @@
-# my-blogs
-Welcome to My Blogs
-
-# My Blogs [![GitHub](https://img.shields.io/github/license/anveshmuppeda/docker-login-page?color=blue)](https://github.com/anveshmuppeda/docker-login-page/blob/main/LICENSE)  
+# Welcome to My Blogs [![GitHub](https://img.shields.io/github/license/anveshmuppeda/my-blogs?color=blue)](https://github.com/anveshmuppeda/my-blogs/blob/main/LICENSE)  
 
 ## Project Maintainers & Contributors  
 <table>
